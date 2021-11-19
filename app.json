@@ -29,7 +29,7 @@
             "required": true
         },
         "BOT_NAME": {
-            "description": "fill with your bot name from @BotFather",
+            "description": "fil with your bot name from @BotFather",
             "required": true
         },
         "ASSISTANT_NAME": {
